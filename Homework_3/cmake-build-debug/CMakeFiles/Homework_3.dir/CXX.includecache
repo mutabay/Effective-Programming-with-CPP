@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_3/CNodeStatic.cpp
+iostream
+-
+string
+-
+CNodeStatic.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_3/CNodeStatic.h
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_3/CNodeStatic.h
+iostream
+-
+vector
+-
+

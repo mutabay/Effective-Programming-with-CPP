@@ -1,0 +1,6 @@
+﻿  CTreeDynamic.cpp
+  Homework_3_modified.cpp
+C:\Users\tyyp-\Desktop\Repository\Effective Programming\Homework_3\vs\Homework_3_modified\Homework_3_modified\Homework_3_modified.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tyyp-\Desktop\Repository\Effective Programming\Homework_3\vs\Homework_3_modified\Homework_3_modified\Homework_3_modified.cpp(77,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Homework_3_modified.vcxproj -> C:\Users\tyyp-\Desktop\Repository\Effective Programming\Homework_3\vs\Homework_3_modified\Debug\Homework_3_modified.exe
