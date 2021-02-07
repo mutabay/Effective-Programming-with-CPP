@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CMySmartPointer.h
+iostream
+-
+CRefCounter.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CRefCounter.h
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CRefCounter.h
+iostream
+-
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CTab.h
+iostream
+-
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CTable.h
+iostream
+-
+string
+-
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/Car.h
+iostream
+-
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/StaticClass.h
+iostream
+-
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/main.cpp
+iostream
+-
+CMySmartPointer.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CMySmartPointer.h
+Car.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/Car.h
+StaticClass.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/StaticClass.h
+CTab.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CTab.h
+CTable.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/CTable.h
+vector
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_5/vector
+

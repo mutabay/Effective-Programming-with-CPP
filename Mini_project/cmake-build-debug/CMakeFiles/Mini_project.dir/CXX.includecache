@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Mini_project/CMatrix.h
+iostream
+-
+fstream
+-
+istream
+-
+sstream
+-
+CVector.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Mini_project/CVector.h
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Mini_project/CVector.h
+iostream
+-
+fstream
+-
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Mini_project/main.cpp
+iostream
+-
+CVector.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Mini_project/CVector.h
+CMatrix.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Mini_project/CMatrix.h
+fstream
+-
+
