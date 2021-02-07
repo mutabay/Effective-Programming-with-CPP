@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_4/CTable.h
+iostream
+-
+
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_4/main.cpp
+iostream
+-
+CTable.h
+C:/Users/tyyp-/Desktop/Repository/Effective Programming/Homework_4/CTable.h
+
