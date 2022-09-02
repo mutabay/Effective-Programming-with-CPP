@@ -1,4 +1,4 @@
-# Effective-Programming
+# Effective-Programming-with-CPP
 Effective Programming Course Lab Contents
 
 -  Homework 1 - CTable Class  
