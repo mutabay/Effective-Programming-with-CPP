@@ -1,14 +1,35 @@
-# Effective-Programming-with-CPP
-Effective Programming Course Lab Contents
+# Effective Programming with C++
 
--  Homework 1 - CTable Class  
--  Homework 2 - CTable Class  
--  Homework 3 - CNodeStatic - CNodeDynamic - CTreeStatic - CTreeDynamic  
--  Homework 4 - t_stack  
--  Homework 5 - StaticClass - CMySmartPointer - CRefCounter - CTab - CTable  
--  MiniProject - CVector - CMatrix   
+Laboratory assignments for an advanced C++ programming course
 
--  CVector - Simple Vector Class  
--  CMatrix - Matrix Class with mathematical operations such as inversion, multiplication ...  
--  t_stack - Template Stack Class  
--  CMySmartPointer - CRefCounter - Smart Pointer class  
+## 📋 Overview
+
+Programming assignments demonstrating advanced C++ concepts including memory management, templates, smart pointers, and data structure implementation.
+
+## 📂 Assignments
+
+- **[Homework 1](Homework_1/)** - CTable Class implementation
+- **[Homework 2](Homework_2/)** - CTable Class enhancements
+- **[Homework 3](Homework_3/)** - Tree data structures (Static & Dynamic)
+- **[Homework 4](Homework_4/)** - Template Stack Class
+- **[Homework 5](Homework_5/)** - Smart Pointers and Reference Counting
+- **[Mini Project](Mini_project/)** - Vector and Matrix mathematical operations
+
+## 🎯 Key Components
+
+- **CTable** - Dynamic table class with memory management
+- **CNodeStatic/CNodeDynamic** - Tree node implementations
+- **CTreeStatic/CTreeDynamic** - Binary tree data structures
+- **t_stack** - Generic template stack
+- **CMySmartPointer** - Custom smart pointer with reference counting
+- **CVector** - Vector class implementation
+- **CMatrix** - Matrix class with mathematical operations (inversion, multiplication)
+
+## 🛠️ Topics Covered
+
+- Object-oriented programming
+- Dynamic memory management
+- Template programming
+- Smart pointers and RAII
+- Data structures (trees, stacks)
+- Operator overloading
